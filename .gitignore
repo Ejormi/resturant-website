@@ -1,0 +1,12 @@
+# System junk
+Thumbs.db
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Node.js stuff
+node_modules/
+
+# Secrets
+.env
